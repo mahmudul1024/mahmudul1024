@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmudul1024&label=Profile%20views&color=0e75b6&style=flat" alt="mahmudul1024" /> </p>
 
-- 🌱 I’m currently learning **Next.Js , Docker**
+- 🌱 I’m currently learning **Next.Js , Docker** , **Vue
 
 - 💬 Ask me about **react**
 
